@@ -1,0 +1,81 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/mdpran/Desktop/Queueonline/Qonline/obj/Debug/net8.0/scopedcss/projectbundle/Qonline.bundle.scp.css",
+      "PackagePath": "staticwebassets/Qonline.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/mdpran/Desktop/Queueonline/Qonline/wwwroot/Img/Bg.png",
+      "PackagePath": "staticwebassets/Img/Bg.png"
+    },
+    {
+      "Id": "/Users/mdpran/Desktop/Queueonline/Qonline/wwwroot/Img/Group 477.png",
+      "PackagePath": "staticwebassets/Img/Group 477.png"
+    },
+    {
+      "Id": "/Users/mdpran/Desktop/Queueonline/Qonline/wwwroot/Img/Web 1920 – 10.png",
+      "PackagePath": "staticwebassets/Img/Web 1920 – 10.png"
+    },
+    {
+      "Id": "/Users/mdpran/Desktop/Queueonline/Qonline/wwwroot/Img/Web 1920 – 11.png",
+      "PackagePath": "staticwebassets/Img/Web 1920 – 11.png"
+    },
+    {
+      "Id": "/Users/mdpran/Desktop/Queueonline/Qonline/wwwroot/Img/Web 1920 – 8-2.png",
+      "PackagePath": "staticwebassets/Img/Web 1920 – 8-2.png"
+    },
+    {
+      "Id": "/Users/mdpran/Desktop/Queueonline/Qonline/wwwroot/Img/Web 1920 – 8-3.png",
+      "PackagePath": "staticwebassets/Img/Web 1920 – 8-3.png"
+    },
+    {
+      "Id": "/Users/mdpran/Desktop/Queueonline/Qonline/wwwroot/Img/Web 1920 – 8.png",
+      "PackagePath": "staticwebassets/Img/Web 1920 – 8.png"
+    },
+    {
+      "Id": "/Users/mdpran/Desktop/Queueonline/Qonline/wwwroot/Img/Web 1920 – 9.png",
+      "PackagePath": "staticwebassets/Img/Web 1920 – 9.png"
+    },
+    {
+      "Id": "/Users/mdpran/Desktop/Queueonline/Qonline/wwwroot/Img/Web1920.jpg",
+      "PackagePath": "staticwebassets/Img/Web1920.jpg"
+    },
+    {
+      "Id": "/Users/mdpran/Desktop/Queueonline/Qonline/wwwroot/Img/icons8-user-96.png",
+      "PackagePath": "staticwebassets/Img/icons8-user-96.png"
+    },
+    {
+      "Id": "/Users/mdpran/Desktop/Queueonline/Qonline/wwwroot/Img/unnamed-2.png",
+      "PackagePath": "staticwebassets/Img/unnamed-2.png"
+    },
+    {
+      "Id": "/Users/mdpran/Desktop/Queueonline/Qonline/wwwroot/Img/unnamed-3.png",
+      "PackagePath": "staticwebassets/Img/unnamed-3.png"
+    },
+    {
+      "Id": "/Users/mdpran/Desktop/Queueonline/Qonline/wwwroot/app.css",
+      "PackagePath": "staticwebassets/app.css"
+    },
+    {
+      "Id": "/Users/mdpran/Desktop/Queueonline/Qonline/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.Qonline.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.Qonline.props",
+      "PackagePath": "build\\Qonline.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Qonline.props",
+      "PackagePath": "buildMultiTargeting\\Qonline.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Qonline.props",
+      "PackagePath": "buildTransitive\\Qonline.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
